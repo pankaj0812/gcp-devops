@@ -1,1 +1,3 @@
-# This Project delves into the intricacies involved when setting up a github pipeline with GCP
+# Docker flask Application
+
+- This application is written in Python, which is deployed on GCP.
